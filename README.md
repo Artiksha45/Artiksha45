@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Artiksha Gawade
 
-<!--
-**Artiksha45/Artiksha45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing BE in Information Technology at D.Y. Patil College of Engineering, Akurdi (CGPA 8.7)
 
-Here are some ideas to get you started:
+💻 I love building real-world web apps using:
+- Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+- Backend: PHP, Node.js, MySQL, MongoDB
+- Tools: Git, JIRA, Postman, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Recent Projects:
+- 🛒 E-commerce Website (PHP + MySQL)
+- 🍽️ Restaurant Management System (MERN)
+- 🎓 Youth4Work Internship Platform (React + PHP)
+
+📌 I'm passionate about solving problems, exploring new technologies, and contributing to meaningful software.
+
+📬 You can reach me at: gawadeartiksha@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/artiksha-gawade-34bb25251/) | [GitHub](https://github.com/Artiksha45) | [HackerRank](https://www.hackerrank.com/profile/gawadeartiksha)
